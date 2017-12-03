@@ -1,6 +1,8 @@
-# Angelluc.GITHUB.IO
+# Hello World! Welcome to my Github page. My Github username is Angelluc.
 
-# Theme jekyll-theme-cayman
+# The theme I have choosen is jekyll-theme-cayman
 
-# Visit at
+# Visit my Githubpage at
 <a href="http://angelluc.github.io" target="_blank">angelluc.github.io</a>
+
+# Feedback is welcome
